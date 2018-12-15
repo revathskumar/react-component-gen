@@ -2,6 +2,7 @@
   "name": "react-component-gen",
   "displayName": "React Component gen",
   "description": "React Component generator with jest test file",
+  "publisher": "Revath S Kumar",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.30.0"
@@ -43,5 +44,6 @@
   "dependencies": {
     "change-case": "^3.0.2",
     "handlebars": "^4.0.12"
-  }
+  },
+  "license": "MIT"
 }
