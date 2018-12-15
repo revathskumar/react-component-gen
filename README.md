@@ -5,8 +5,8 @@ vscode extension to create `React Component`. if you input name `HelloWorld` it 
 * components/HelloWorld/
 * components/HelloWorld/HelloWorld.jsx
 * components/HelloWorld/HelloWorld.scss
-* components/HelloWorld/__tests__/
-* components/HelloWorld/__tests__/HelloWorld.test.js
+* components/HelloWorld/\_\_tests__/
+* components/HelloWorld/\_\_tests__/HelloWorld.test.js
 
 
 <!-- ## Features -->
@@ -28,6 +28,6 @@ Doesn't provide any settings as of now.
 
 ## License
 
-[License][https://revathskumar.mit-license.org/]
+[License](https://revathskumar.mit-license.org/)
 
 **Enjoy!**
