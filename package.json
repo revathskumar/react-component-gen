@@ -2,7 +2,7 @@
   "name": "react-component-gen",
   "displayName": "React Component gen",
   "description": "React Component generator with jest test file",
-  "publisher": "Revath S Kumar",
+  "publisher": "rsk88",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.30.0"
@@ -29,6 +29,9 @@
         }
       ]
     }
+  },
+  "repository": {
+    "url": "https://github.com/revathskumar/react-component-gen"
   },
   "scripts": {
     "postinstall": "node ./node_modules/vscode/bin/install",
